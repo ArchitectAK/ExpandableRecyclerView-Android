@@ -1,4 +1,4 @@
-package com.cogitator.learncoroutines
+package com.cogitator.expandable_recyclerview
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("com.cogitator.learncoroutines", appContext.packageName)
+        assertEquals("com.cogitator.expandable_recyclerview", appContext.packageName)
     }
 }

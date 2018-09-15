@@ -1,4 +1,4 @@
-package com.cogitator.learncoroutines
+package com.cogitator.expandable_recyclerview
 
 import org.junit.Test
 

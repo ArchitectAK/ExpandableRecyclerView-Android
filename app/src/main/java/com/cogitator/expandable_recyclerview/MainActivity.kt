@@ -1,4 +1,4 @@
-package com.cogitator.learncoroutines
+package com.cogitator.expandable_recyclerview
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
