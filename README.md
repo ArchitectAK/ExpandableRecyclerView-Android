@@ -2,8 +2,12 @@
 A demo project to demonstrate expandable recyclerview
 
 ## That's how it looks after implementing
-
+- 1
 ![](https://github.com/AnkitDroidGit/ExpandableRecyclerView/blob/master/screens/1.png)
+- 2
+![](https://github.com/AnkitDroidGit/ExpandableRecyclerView/blob/master/screens/2.png)
+- 3 
+![](https://github.com/AnkitDroidGit/ExpandableRecyclerView/blob/master/screens/3.png)
 
 
 ### Contact - Let's connect to learn together
