@@ -3,6 +3,7 @@ A demo project to demonstrate expandable recyclerview
 
 ## That's how it looks after implementing
 
+- 0
 ![](https://github.com/AnkitDroidGit/ExpandableRecyclerView/blob/master/screens/expand.gif)
 
 - 1
