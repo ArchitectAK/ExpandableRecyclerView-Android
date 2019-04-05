@@ -18,7 +18,7 @@ A demo project to demonstrate expandable recyclerview
 - [Twitter](https://twitter.com/KumarAnkitRKE)
 - [Github](https://github.com/AnkitDroidGit)
 - [LinkedIn](https://www.linkedin.com/in/kumarankitkumar/)
-- [Facebook](https://www.facebook.com/freeankit)
+- [Facebook](https://www.facebook.com/ankitoid)
 - [Slack](https://ankitdroid.slack.com)
 - [Stackoverflow](https://stackoverflow.com/users/3282461/android)
 - [Android App](https://play.google.com/store/apps/details?id=com.freeankit.ankitprofile)
